@@ -1,0 +1,2 @@
+# Callsign-Navigator
+The callsign navigator repository allows the user to easily construct a list of URLs to pull up and applications to open- all at once. The navigator also provides a script that can be set as a desktop short cut, allowing you to easily store sets of URLs and applications as a row in a csv; efficiently prompting the user for the callsign name, type, and URL before writing to a csv.
