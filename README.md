@@ -17,5 +17,6 @@ Download the files:
 4.  shortcut.py
 
 If you're having trouble with building your CSVs, here are some instructions on how to resolve those issues: 
-  -To ensure no issues when reading/writing to the CSVs make sure to only open them in TextEdit and that, after using the builder to add in your    own callsigns (and/or polysigns), you open up the csv and ensure that each callsign is on it's own line; you will also need to enter     
-   'Callsign' for the first callsign name you enter, 'type', for the first callsign's 'type', and 'URL', for the first callsign's URL; in order    for the program to work because I designed it to have the first line in the csv as column titles. Likewise for polysign.csv, set the polysign    name too 'Name', and only enter 1 callsign for the first polysign; 'list_of_polysigns'.
+  
+-To ensure no issues when reading/writing to the CSVs make sure to only open them in TextEdit and that, after using the builder to add in your    own callsigns (and/or polysigns), you open up the csv and ensure that each callsign is on it's own line; you will also need to enter     
+Callsign' for the first callsign name you enter, 'type', for the first callsign's 'type', and 'URL', for the first callsign's URL; in order    for the program to work because I designed it to have the first line in the csv as column titles. Likewise for polysign.csv, set the polysign    name too 'Name', and only enter 1 callsign for the first polysign; 'list_of_polysigns'.
